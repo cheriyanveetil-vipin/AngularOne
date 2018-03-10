@@ -11,7 +11,13 @@ with the help of server side technology PHP and Mysql.This example includes logi
 *	Uses boostrap and jquery to make the dashboard/ application responsive.
 *	Has an example for HighChart usage.
 
-### Features :
+### How to Run :
+*	Install wampserver
+*	Download the code as zip
+* 	Create a folder , say "AngularOne" under wampserver "www" folder
+*	Unzip the code to "AngularOne" folder
+*	Run it on browser example "http://localhost/AngularOne" 
+
 The sample credentials to login is
 ```
 admin/admin

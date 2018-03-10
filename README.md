@@ -11,5 +11,10 @@ with the help of server side technology PHP and Mysql.This example includes logi
 *	Uses boostrap and jquery to make the dashboard/ application responsive.
 *	Has an example for HighChart usage.
 
+### Features :
+The sample credentials to login is
+```
+admin/admin
+```
 
 Hope you all like it :)

@@ -25,8 +25,8 @@ admin/admin
 ```
 
 ## Credits 
-*	PHP Slim Framework : https://www.slimframework.com/
-*	Highcharts : https://www.highcharts.com/demo
-
+*	PHP Slim Framework	: 	https://www.slimframework.com/
+*	Highcharts			: 	https://www.highcharts.com/demo
+*	Toastr				:	https://codeseven.github.io/toastr/
 
 Hope you all like it :)

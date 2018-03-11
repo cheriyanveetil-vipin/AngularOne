@@ -24,4 +24,9 @@ The sample credentials to login is
 admin/admin
 ```
 
+## Credits 
+*	PHP Slim Framework : https://www.slimframework.com/
+*	Highcharts : https://www.highcharts.com/demo
+
+
 Hope you all like it :)

@@ -10,6 +10,7 @@ with the help of server side technology PHP and Mysql.This example includes logi
 *	Has an example for Dashboard with few widgets.
 *	Uses boostrap and jquery to make the dashboard/ application responsive.
 *	Has an example for HighChart usage.
+*	Also has an example on toaster usage.
 
 ### How to Run :
 *	Install wampserver
